@@ -11,3 +11,6 @@ This template provides setup for React with TypeScript(strict) in Vite with HMR 
 - Stylelint
 - Normalize.css
 - Sass
+
+## Todo
+- fix absolute import for public folder
